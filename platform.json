@@ -36,7 +36,7 @@
     "framework-arduinoavr": {
       "type": "framework",
       "optional": true,
-      "version": "~1.10623.0"
+      "version": "https://github.com/antexx/platformio-pkg-framework-arduinoavr.git"
     },
     "framework-simba": {
       "type": "framework",
